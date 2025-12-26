@@ -1,1 +1,1 @@
-# go-explore
+# Go Explore
